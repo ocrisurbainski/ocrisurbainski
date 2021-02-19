@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CristianUrbainski&count_private=true&hide=prs,issues,contribs&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianUrbainski&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristian-elder-urbainski-1284b657/)](https://www.linkedin.com/in/cristian-elder-urbainski-1284b657/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cristianurbainskips@gmail.com)](mailto:cristianurbainskips@gmail.com)
+
 <!--
 **CristianUrbainski/CristianUrbainski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
